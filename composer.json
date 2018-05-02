@@ -1,8 +1,8 @@
 {
-    "name": "jmaerckaert/stackble.js",
+    "name": "jmaerckaert/stacktable.js",
     "description": "Libraries Stackable.js for Drupal sshop theme",
     "type": "drupal-library",
-    "homepage": "https://github.com/jmaerckaert/stackable.js",
+    "homepage": "https://github.com/jmaerckaert/stacktable.js",
     "authors": [
         {
             "name": "Jonathan Maerckaert (jmaerckaert)",
@@ -11,7 +11,7 @@
         }
     ],
     "support": {
-        "source": "https://github.com/jmaerckaert/stackable.js"
+        "source": "https://github.com/jmaerckaert/stacktable.js"
     },
     "license": "GPL-2.0+",
     "minimum-stability": "dev"
